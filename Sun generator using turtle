@@ -1,0 +1,16 @@
+import turtle
+t = turtle.Turtle()
+t.screen.title("star pattern")
+t.screen.bgcolor("black")
+t.color("red","yellow")
+
+t.begin_fill()
+while True:
+    t.forward(200)
+    t.left(100)
+    
+    x = t.position()
+    
+    if abs(x) < 1 :
+        break
+t.end_fill()
