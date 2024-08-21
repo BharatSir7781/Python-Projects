@@ -50,3 +50,7 @@ Usage:
 Ensure you have Python installed on your system.
 Run the script in a Python environment that supports GUI operations.
 A window will open displaying the digital clock. It will continuously update to show the current time.
+
+
+#Tic Tak Toe
+Tic-tac-toe (American English), noughts and crosses (Commonwealth English), or Xs and Os (Canadian or Irish English) is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O.
